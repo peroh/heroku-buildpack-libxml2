@@ -6,7 +6,7 @@ BUILD_DIR=$1
 CACHE_DIR=$2
 
 # config
-VERSION="2.7.7"
+VERSION="2.9.9"
 
 # Buildpack URL
 LIB_NAME=libxml2
